@@ -1,0 +1,15 @@
+package com.atguigu.contact;
+
+/**
+ * 
+ * @Description 
+ * @author GlobalYZ  Email:GlobalYZ@139.com
+ * @version 
+ * @date 2021年3月4日下午3:09:43
+ *
+ */
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("helloworld!");
+	}
+}
